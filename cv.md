@@ -11,7 +11,7 @@ English advanced
 ## Code
 "function summ(a, b) { return a + b;}"
 ## Education 
-Minsk State Linguistic University
+Minsk State Linguistic University\
 JS/Front-end stage 0 RS School 2024
 ## English
 *advanced*
